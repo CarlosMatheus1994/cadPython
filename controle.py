@@ -7,7 +7,7 @@ numero_id = 0
 banco = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="668820",
+    passwd="password",
     database="cadastro_produtos"
 )
 def editar_dados():
